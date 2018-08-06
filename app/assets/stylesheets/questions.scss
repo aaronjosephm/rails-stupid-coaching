@@ -1,0 +1,20 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+  text-align: center;
+  justify-content: center !important;
+  flex: auto;
+  align-items: center;
+}
+
+.form-inline {
+  align-items: center !important;
+}
+
+.card {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: red;
+}
